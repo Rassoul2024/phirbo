@@ -1,6 +1,6 @@
-                        ### Guide d'Installation et d'Utilisation de Phigaro(environnement virtuelle)
+                       Guide d'Installation et d'Utilisation de Phigaro(environnement virtuelle)
 
-                                                     ### Introduction
+                                                     Introduction
 
 ### higaro est un outil de bioinformatique conçu pour analyser les génomes viraux. Il utilise des modèles HMM (Hidden Markov Models) pour effectuer des analyses basées sur des séquences génétiques. Ce guide détaillé vous montrera comment installer Phigaro, l'utiliser pour analyser vos séquences génétiques et gérer les résultats.
 Prérequis
